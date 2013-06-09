@@ -1,0 +1,34 @@
+# EESchema Netlist Version 1.1 created  Sat 24 Sep 2011 08:19:54 PM CEST
+(
+ ( /4E7CC709 SIL-1 P1 CONN_1
+  ( 1 N-000003 )
+ )
+ ( /4E7CC70D SIL-1 P2 CONN_1
+  ( 1 N-000004 )
+ )
+ ( /4E7CC710 SIL-1 P3 CONN_1
+  ( 1 N-000002 )
+ )
+ ( /4E7CC717 SIL-1 P4 CONN_1
+  ( 1 N-000005 )
+ )
+ ( /4E7CC6F2 SIL-1 P5 CONN_1
+  ( 1 N-000003 )
+ )
+ ( /4E7CC6EF SIL-1 P6 CONN_1
+  ( 1 N-000004 )
+ )
+ ( /4E7CC6EB SIL-1 P7 CONN_1
+  ( 1 N-000002 )
+ )
+ ( /4E7CC6E7 SIL-1 P8 CONN_1
+  ( 1 N-000005 )
+ )
+ ( /4E7E1F2A SIL-1 P9 CONN_1
+  ( 1 /GND )
+ )
+ ( /4E7E1DDE SIL-1 P20 CONN_1
+  ( 1 /GND )
+ )
+)
+*

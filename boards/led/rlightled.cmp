@@ -1,0 +1,73 @@
+Cmp-Mod V01 Created by CvPCB (2011-07-20 BZR 3052)-stable date = Sat 24 Sep 2011 08:19:54 PM CEST
+
+BeginCmp
+TimeStamp = /4E7CC709;
+Reference = P1;
+ValeurCmp = CONN_1;
+IdModule  = SIL-1;
+EndCmp
+
+BeginCmp
+TimeStamp = /4E7CC70D;
+Reference = P2;
+ValeurCmp = CONN_1;
+IdModule  = SIL-1;
+EndCmp
+
+BeginCmp
+TimeStamp = /4E7CC710;
+Reference = P3;
+ValeurCmp = CONN_1;
+IdModule  = SIL-1;
+EndCmp
+
+BeginCmp
+TimeStamp = /4E7CC717;
+Reference = P4;
+ValeurCmp = CONN_1;
+IdModule  = SIL-1;
+EndCmp
+
+BeginCmp
+TimeStamp = /4E7CC6F2;
+Reference = P5;
+ValeurCmp = CONN_1;
+IdModule  = SIL-1;
+EndCmp
+
+BeginCmp
+TimeStamp = /4E7CC6EF;
+Reference = P6;
+ValeurCmp = CONN_1;
+IdModule  = SIL-1;
+EndCmp
+
+BeginCmp
+TimeStamp = /4E7CC6EB;
+Reference = P7;
+ValeurCmp = CONN_1;
+IdModule  = SIL-1;
+EndCmp
+
+BeginCmp
+TimeStamp = /4E7CC6E7;
+Reference = P8;
+ValeurCmp = CONN_1;
+IdModule  = SIL-1;
+EndCmp
+
+BeginCmp
+TimeStamp = /4E7E1F2A;
+Reference = P9;
+ValeurCmp = CONN_1;
+IdModule  = SIL-1;
+EndCmp
+
+BeginCmp
+TimeStamp = /4E7E1DDE;
+Reference = P20;
+ValeurCmp = CONN_1;
+IdModule  = SIL-1;
+EndCmp
+
+EndListe
