@@ -38,14 +38,16 @@ The two boards should form a sandwich...
 The lfuse.bin file contains fuse settings, which I probably... ehhh... fused... for... Sorry, don't remember, you
 have to check it in uC's (ATmega88?) the datasheet.
 
-## Legalese
+## Licenses
 
 ### The application (source code)
 
-Remote controlled rgb lamp based on AVR
+rlamp - Remote controlled rgb lamp based on AVR
 Copyright &copy; 2011 Filip Sobalski <pinkeen@gmail.com>
 
-This program is free software: you can redistribute it and/or modify
+This file is part of rlamp.
+
+Rlamp is free software: you can redistribute it and/or modify
 it under the terms of the GNU General Public License as published by
 the Free Software Foundation, either version 3 of the License, or
 (at your option) any later version.
