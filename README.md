@@ -63,3 +63,7 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
 ### The boards and schematics
 
 The boards and schematics are licensed under a [Creative Commons Attribution 3.0 Unported License](http://creativecommons.org/licenses/by/3.0/).
+
+
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/pinkeen/rlamp/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+
